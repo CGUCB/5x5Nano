@@ -1,0 +1,2 @@
+Input a list of Horiz, then Vertical clues, and this program will return a solved Nanogram. Works for 5x5 Nanograms, and will return None if there is no solution.
+This was a day project and was a ton of fun; helped me to learn DPS. It is not perfect. 
